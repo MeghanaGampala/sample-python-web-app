@@ -1,4 +1,4 @@
-# sample-python-app
+# sample-python-web-app
 
 ## Sample python application for testing
 
