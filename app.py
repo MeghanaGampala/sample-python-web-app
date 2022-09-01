@@ -10,7 +10,7 @@ from version import app_version
 
 app = Flask(__name__)
 
-# Initialization
+# Initializations
 debug = bool(os.getenv('DEBUG'))
 print(debug)
 
